@@ -1,0 +1,34 @@
+.main1 {
+    background-color: #e2edff;
+    padding-top: 2rem;
+}
+
+.main2 {
+    padding-top: 2rem;
+}
+
+.main3 {
+    background-color: #e2edff;
+    padding-top: 2rem;
+}
+
+.main3 h2 {
+    margin-top: 0 !important;
+}
+
+.main3 img {
+    border: black solid 3px;
+}
+
+div .card {
+    width: auto;
+    display: flex;
+    align-items: center;
+}
+
+footer {
+    
+}
+
+
+
